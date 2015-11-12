@@ -19,7 +19,7 @@ const App = React.createClass({
           <li><Link to="/about">About</Link></li>
           <li><Link to="/hello">Hello</Link></li>
         </ul>
-        {this.props.children}
+        <div className="main-content">{this.props.children}</div>
       </div>
     )
   }
