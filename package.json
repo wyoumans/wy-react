@@ -27,7 +27,12 @@
   },
   "homepage": "https://github.com/wyoumans/wy-react",
   "devDependencies": {
+    "babel-core": "6.1.4",
+    "babel-loader": "6.1.0",
     "webpack": "1.12.4",
     "webpack-dev-server": "1.12.1"
+  },
+  "dependencies": {
+    "react": "0.14.2"
   }
 }
