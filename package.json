@@ -1,0 +1,31 @@
+{
+  "name": "wy-react",
+  "version": "0.0.1",
+  "private": true,
+  "description": "williamyoumans.com react webpack",
+  "main": "index.js",
+  "engines": {
+    "node": "~4.2.0",
+    "npm": "~2.14.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyoumans/wy-react.git"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "wyoumans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyoumans/wy-react/issues"
+  },
+  "homepage": "https://github.com/wyoumans/wy-react",
+  "devDependencies": {
+    "webpack": "1.12.4"
+  }
+}
