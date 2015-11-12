@@ -12,9 +12,8 @@ npm install
 npm run dev
 ```
 
-## Building and Running Production Server
+## Building for Production
 
 ```
 npm run build
-npm run start
 ```
